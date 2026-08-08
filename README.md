@@ -1,9 +1,9 @@
-# atc-aurora-runtime-wiki
+# atc-aurora-runtime Wiki
 
 📖 atc-aurora-runtime Wiki — Aurora AI Runtime — Agent Execution, Tools
 
-> **Organisation:** A-TownChain-Okosystems  
-> **Erstellt:** 2026-08-08  
+> **Organisation:** A-TownChain-Okosystems
+> **Erstellt:** 2026-08-08
 > **Agent:** Aurora (MasterBrain · Base44)
 
 ## Inhalte
